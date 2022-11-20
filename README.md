@@ -1,3 +1,3 @@
 # diff-practice
 Git講座 diff練習用
-変更Staging用(1st)
+複数ファイル変更(3rd)
